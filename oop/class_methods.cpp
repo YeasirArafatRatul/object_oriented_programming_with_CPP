@@ -15,3 +15,5 @@ int main() {
   MyClass myObj;     // Create an object of MyClass
   myObj.myMethod();  // Call the method
   return 0;
+
+}
