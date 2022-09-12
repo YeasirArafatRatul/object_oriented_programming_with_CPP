@@ -12,7 +12,6 @@ class MyClass
         MyClass(int, int);
         MyClass(int, int, float);
 
-
         void show_values(){
             cout << "Value of x: " << x << endl;
             cout << "Value of y: " << y << endl;
